@@ -9,3 +9,11 @@ Currently the job is to collect Human-Vehicle Interaction data, specifically on 
 
 The project is running in a phase by phase system and once one part is developed and tested rigorously, only then it moves over to the next phase.
 Similar to steering wheel in current setup, next is to place motors and linear actuators on Accelerator/Brake/Clutch so that they can be precisely controlled via electronic signals and after collecting enough driving data, build a Machine Learning Algorithm around the collected data that would run on a single board computer like Raspberry Pi and test it on real world conditions of Indian roads. 
+
+
+https://user-images.githubusercontent.com/17024368/221350997-c66f5fb0-8862-4e18-8efa-a08b9cba6346.mp4
+
+
+
+https://user-images.githubusercontent.com/17024368/221351044-22c8ebd1-1e3c-4490-9d72-5d20201e6e96.mp4
+
